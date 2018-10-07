@@ -1,3 +1,6 @@
 
+# directories
+.vscode/
+
 # compiled python code
 *.pyc
