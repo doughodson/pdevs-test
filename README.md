@@ -1,10 +1,10 @@
 DEVS Examples using PythonPDEVS
 ===============================
 
-Directories & Examples
-----------------------
+Top Level Directories
+---------------------
 
-* pythonpdevs: source code to python PDEVS.  This needs to be installed first!
+* pythonpdevs: source code to python PDEVS (v2.4.1) - this needs to be installed first!
 
 * tutorial: directory of examples that step-by-step implement the models in the paper:
 "An Introduction to Classic DEVS" by Yentl Van Tendeloo and Hans Vengheluwe
